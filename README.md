@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple Shopping Cart with Create React App and TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic react project for understaning how to easily use typescript with React.
 
 ## Available Scripts
 
