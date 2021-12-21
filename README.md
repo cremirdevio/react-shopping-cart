@@ -2,6 +2,8 @@
 
 This is a basic react project for understaning how to easily use typescript with React.
 
+- Not fully functional yet.
+
 ## Available Scripts
 
 In the project directory, you can run:
